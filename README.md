@@ -43,7 +43,7 @@ This repository contains my learning journey, tasks, and contributions as part o
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishal--kashyap/)
 - 🐙 [GitHub](https://github.com/vishalsiingh)
-- 📧 Email: (singhvishalk165@gmail.com)
+- 📧 Email: [your.email@example.com](singhvishalk165@gmail.com)
 
 ---
 
