@@ -25,20 +25,21 @@ This repository contains my learning journey, tasks, and contributions as part o
 
 ## 📁 Repository Structure
 
-```bash
-.
-├── Week-1/
-│   ├── Task-1/
-│   ├── Task-2/
-│   └── ...
-├── Week-2/
-│   ├── Task-3/
-│   ├── Task-4/
-│   └── ...
-├── assets/
-│   └── screenshots, images
-├── README.md
-└── LICENSE
+            ```bash
+              .
+             ├── Week-1/
+             │   ├── Task-1/
+             │   ├── Task-2/
+             │   └── ...
+             ├── Week-2/
+             │   ├── Task-3/
+             │   ├── Task-4/
+             │   └── ...
+             ├── assets/
+             │   └── screenshots, images
+             ├── README.md
+             └── LICENSE
+
 ## 🤝 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishal--kashyap/)
